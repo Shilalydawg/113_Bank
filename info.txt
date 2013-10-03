@@ -1,0 +1,5 @@
+[customer Ben Jammin
+ account 123456
+ PIN 1234
+ balance 1234.56
+ transactions {(2012/12/10 50) (2013/05/8 -25)}]
